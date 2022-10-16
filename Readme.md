@@ -68,7 +68,7 @@ Fourth - Verify that there are two branches and each  branch contains two files.
 
 ### Continued development
 
-There are 20 sections to this course, each with a number of lessons and exercises. This is the final exercise from Section 8. There are pervious exercises that I will be posting, as well as exercises that I have done since this one which I will also add. I am more than halfway through this course at this time and not every section has an exercise that could be, or needs to be added to a repository. I will add those exercises that are relevant as it will help solidify my understanding and better develop my skill through practice.
+There are 20 sections to this course, each with a number of lessons and exercises. This is the final exercise from Section 8. There are previous exercises that I will be posting, as well as exercises that I have done since this one which I will also add. I am more than halfway through this course at this time and not every section has an exercise that could be, or needs to be added to a repository. I will add those exercises that are relevant as it will help solidify my understanding and better develop my skill through practice.
 
 ### Useful resources
 
